@@ -1,0 +1,81 @@
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	font-size:50px;
+	text-align:center;
+	margin:10px;
+	padding-top:40px;
+	padding-bottom:30px;
+}
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	font-size:20px;
+	margin:20px;
+	padding-top: 30px;
+	padding-left: 50px;
+}
+h3 {
+	font-family: 'Raleway', sans-serif;
+	margin:20px;
+	padding-left: 50px;
+}
+blockquote {
+	font-family: 'Raleway', sans-serif;
+	margin:10px;
+	padding-left:70px;
+	font-weight: bold;
+	text-align: center;
+}
+.navbar {
+	font-family: 'Raleway', sans-serif;
+}
+
+.header {
+	text-align: center;
+}
+li{
+	display:inline-block;
+	padding:10px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+p {
+	margin:20px;
+	font-family: 'Raleway', sans-serif;
+	padding-left:50px;
+	padding-right:50px;
+}
+img{
+	float:right;
+	padding:30px;
+	height:40%;
+	width:40%;
+}
+.left {
+	float:left;
+	padding:50px;
+	height:25%;
+	width:25%;
+}
+a:link {
+	text-decoration: none;
+	color:black;
+}
+a:visited {
+	color:black;
+}
+#hover-me:hover {
+	text-decoration:underline;
+}
+iframe {
+	display:inline-block;
+	margin:auto;
+	padding:35px;
+}
+.article {
+	margin-top:50px;
+}
+header {
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5My5tjXOyt62ABuzX-m-_eXSUtJvcY3xoqjdaL6BFzLs5kJ8U")
+}
